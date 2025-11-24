@@ -51,7 +51,7 @@ Sou **bolsista da FUNCERN**, selecionado para o **Programa de Residência Tecnol
   <img alt="Proatividade" src="https://img.shields.io/badge/Proatividade-FFD700?style=for-the-badge&logo=spark&logoColor=black" height="30"/>
 </div>
 
-## Aprendendo essas Tecnologias <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+## Tecnologias 👨‍💻 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
   <img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="30"/>
