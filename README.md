@@ -37,29 +37,21 @@ Olá, sou o **Marcelo Júnior**, um desenvolvedor apaixonado por tecnologia e in
 ### ● Proativo 🚀
 
 ## Atualmente estou estudando:<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
-  
-  <img align="center" alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" style="margin: 5px;"/>
-  
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30" style="margin: 5px;"/>
-  
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" style="margin: 5px;">
-  
-  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="60" style="margin: 5px;">
-  
-  <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="30" style="margin: 5px;"/>
-  
-  <img align="center" alt="ESP32" src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="30" style="margin: 5px;"/>
-  
-  <img align="center" alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="30" style="margin: 5px;"/>
-  
-  <img align="center" alt="IoT" src="https://img.shields.io/badge/IoT-Internet%20das%20Coisas-blueviolet?style=for-the-badge" height="30" style="margin: 5px;"/>
-
-  <img align="center" alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="30" style="margin: 5px;"/>
-  
-  <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" style="margin: 5px;"/>
-  
-  <img align="center" alt="Data Analysis" src="https://img.shields.io/badge/Data-Análise%20de%20Dados-green?style=for-the-badge" height="30" style="margin: 5px;"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+  <img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="30"/>
+  <img align="center" alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/>
+  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30"/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="30"/>
+  <img align="center" alt="ESP32" src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="30"/>
+  <img align="center" alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" height="30"/>
+   <img align="center" alt="IoT" src="https://img.shields.io/badge/IoT-Internet%20das%20Coisas-blueviolet?style=for-the-badge" height="30"/>
+  <img align="center" alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="30"/>
+   <img align="center" alt="Data Analysis" src="https://img.shields.io/badge/Data-Análise%20de%20Dados-green?style=for-the-badge" height="30"/>
+  <img align="center" alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="30"/>
+  <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
+  <img align="center" alt="Data Analysis" src="https://img.shields.io/badge/Data-Análise%20de%20Dados-green?style=for-the-badge" height="30"/>
 </div>
 
 
