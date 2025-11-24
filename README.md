@@ -36,13 +36,30 @@ Olá, sou o **Marcelo Júnior**, um desenvolvedor apaixonado por tecnologia e in
 ### ● Vontade de Aprender 📚
 ### ● Proativo 🚀
 
-## Atualmente estou estudando:
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
- <img align="center" alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" whitewidth="60" style="margin: 5px;"/>
-<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="60" style="margin: 5px;">
- <img align="center" alt=" Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" whitewidth="60" style="margin: 5px;"/>
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" style="margin: 5px;">
+## Atualmente estou estudando:<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
+  
+  <img align="center" alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" style="margin: 5px;"/>
+  
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30" style="margin: 5px;"/>
+  
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" style="margin: 5px;">
+  
+  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="60" style="margin: 5px;">
+  
+  <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="30" style="margin: 5px;"/>
+  
+  <img align="center" alt="ESP32" src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="30" style="margin: 5px;"/>
+  
+  <img align="center" alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="30" style="margin: 5px;"/>
+  
+  <img align="center" alt="IoT" src="https://img.shields.io/badge/IoT-Internet%20das%20Coisas-blueviolet?style=for-the-badge" height="30" style="margin: 5px;"/>
+
+  <img align="center" alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="30" style="margin: 5px;"/>
+  
+  <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" style="margin: 5px;"/>
+  
+  <img align="center" alt="Data Analysis" src="https://img.shields.io/badge/Data-Análise%20de%20Dados-green?style=for-the-badge" height="30" style="margin: 5px;"/>
 </div>
 
 
