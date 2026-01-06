@@ -2,7 +2,7 @@
 <p align="center">
 
 ### 😎 **Sobre mim**  
-### Olá, sou o **Marcelo Júnior**, um desenvolvedor apaixonado por tecnologia e inovação. Tenho me dedicado a aprofundar mesu conhecimentos em **Levantamento de Requisitos de Software** e ao desenvolvimento de **Sistemas Embarcados** e **Internet das Coisas.** Meu objetivo é criar soluções que façam a diferença no cotidiano das pessoas.
+### Olá, me chamo **Marcelo Júnior**, atualmente tenho me dedicado a aprofundar meus conhecimentos no desenvolvimento de **Sistemas Embarcados** e **Internet das Coisas.** Meu objetivo é criar soluções que façam a diferença no cotidiano das pessoas.
 
 ## 👨‍🎓 Formação Acadêmica
 Atualmente, estou cursando o **Bacharelado em Sistemas de Informação** (7° Período) na **UFERSA - Universidade Federal Rural do Semi-Árido**, campus **Angicos/RN**. 🎓
